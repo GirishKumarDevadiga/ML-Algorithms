@@ -1,0 +1,2 @@
+Here have the low accuracy for the Logistic regression and high accuracy are for both Decision Tree and Ada Boost model. 
+We can say that for the iris dataset Decision Tree and Ada Boost model can be used due to higher accuracy in the training dataset.
